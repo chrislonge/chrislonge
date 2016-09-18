@@ -1,7 +1,0 @@
-version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
-options: "a0d91bf13a76e4a970a58633d8e43a75"
-build_time: [527488248, 820815000]
-inputs:
-  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileCrypto/BCrypt.swift": [527487097, 0]
-  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileCrypto/Random.swift": [527487098, 0]
-  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileCrypto/URandom.swift": [527487098, 0]

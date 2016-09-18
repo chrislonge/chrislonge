@@ -1,3 +1,0 @@
-framework module SHA2 {
-    header "SHA2-Swift.h"
-}

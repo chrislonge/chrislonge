@@ -1,8 +1,0 @@
-version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
-options: "1f1ca41220a3b52096246ac261da8a71"
-build_time: [527488265, 37913000]
-inputs:
-  "/Users/fls281/Development/Vapor/ChrisLonge/Sources/App/main.swift": [527488183, 0]
-  "/Users/fls281/Development/Vapor/ChrisLonge/Sources/App/Controllers/UserController.swift": [527463557, 0]
-  "/Users/fls281/Development/Vapor/ChrisLonge/Sources/App/Middleware/SampleMiddleware.swift": [527463557, 0]
-  "/Users/fls281/Development/Vapor/ChrisLonge/Sources/App/Models/User.swift": [527463557, 0]

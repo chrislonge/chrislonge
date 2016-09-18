@@ -1,3 +1,0 @@
-framework module Middleware {
-    header "Middleware-Swift.h"
-}

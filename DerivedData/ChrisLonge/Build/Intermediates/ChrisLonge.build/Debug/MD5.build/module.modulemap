@@ -1,3 +1,0 @@
-framework module MD5 {
-    header "MD5-Swift.h"
-}

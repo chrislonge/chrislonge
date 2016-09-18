@@ -1,3 +1,0 @@
-framework module SHA1 {
-    header "SHA1-Swift.h"
-}

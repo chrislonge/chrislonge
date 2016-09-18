@@ -1,7 +1,0 @@
-version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
-options: "d99abd6dbfc71e7e50c031027630b7da"
-build_time: [527488255, 619390000]
-inputs:
-  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Cache/CacheProtocol.swift": [527486761, 0]
-  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Cache/FluentCache.swift": [527486783, 0]
-  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Cache/MemoryCache.swift": [527486761, 0]

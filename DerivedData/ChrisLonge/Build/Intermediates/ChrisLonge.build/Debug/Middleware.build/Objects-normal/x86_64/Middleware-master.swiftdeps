@@ -1,5 +1,0 @@
-version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
-options: "2b9bef922e7fa3bc0434758c3ec3f834"
-build_time: [527488252, 153591000]
-inputs:
-  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Middleware/Middleware.swift": [527486783, 0]
