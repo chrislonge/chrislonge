@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "b8d93f12692dc34dddbd7da07dad955f"
+build_time: [527488210, 681207000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/Address+C.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/Address.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/Bytes.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/Conversions.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/Error.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/FDSet.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/InternetSocket.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/Pipe.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/Select.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/Socket.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/SocketOptions.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/TCPSocket.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/Types.swift": [527487078, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Socks-0.12.2/Sources/SocksCore/UDPSocket.swift": [527487078, 0]

@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "a9026c11adefdf3cedea04050c3c5594"
+build_time: [527488253, 126886000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Routing/Branch.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Routing/ParametersContainer.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Routing/RouteBuilder+RouteCollection.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Routing/RouteBuilder+RouteGroup.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Routing/RouteBuilder.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Routing/RouteCollection.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Routing/RouteGroup+RouteBuilder.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Routing/RouteGroup.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/Routing/Router.swift": [527486761, 0]

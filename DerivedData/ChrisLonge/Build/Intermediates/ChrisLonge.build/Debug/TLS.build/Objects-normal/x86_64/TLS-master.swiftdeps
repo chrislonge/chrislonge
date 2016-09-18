@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "88dc0835d73fe6332c744143796cfdc4"
+build_time: [527488237, 197241000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/TLS-0.8.1/Sources/TLS/Certificates.swift": [527487073, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/TLS-0.8.1/Sources/TLS/Config.swift": [527487073, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/TLS-0.8.1/Sources/TLS/Context.swift": [527487073, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/TLS-0.8.1/Sources/TLS/Error.swift": [527487073, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/TLS-0.8.1/Sources/TLS/Mode.swift": [527487073, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/TLS-0.8.1/Sources/TLS/Socket.swift": [527487073, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/TLS-0.8.1/Sources/TLS/Utilities.swift": [527487073, 0]

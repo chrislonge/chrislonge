@@ -1,0 +1,301 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Validatable"
+provides-nominal:
+- "P5Vapor11Validatable"
+- "SS"
+- "Vs3Set"
+- "Sa"
+- "Vs10Dictionary"
+- "Sb"
+- "Si"
+- "Vs4Int8"
+- "Vs5Int16"
+- "Vs5Int32"
+- "Vs5Int64"
+- "Su"
+- "Vs5UInt8"
+- "Vs6UInt16"
+- "Vs6UInt32"
+- "Vs6UInt64"
+- "Sf"
+- "Sd"
+provides-member:
+- ["P5Vapor11Validatable", ""]
+- ["SS", ""]
+- ["Vs3Set", ""]
+- ["Sa", ""]
+- ["Vs10Dictionary", ""]
+- ["Sb", ""]
+- ["Si", ""]
+- ["Vs4Int8", ""]
+- ["Vs5Int16", ""]
+- ["Vs5Int32", ""]
+- ["Vs5Int64", ""]
+- ["Su", ""]
+- ["Vs5UInt8", ""]
+- ["Vs6UInt16", ""]
+- ["Vs6UInt32", ""]
+- ["Vs6UInt64", ""]
+- ["Sf", ""]
+- ["Sd", ""]
+- ["Sq", ""]
+- ["P5Vapor11Validatable", "tested"]
+- ["P5Vapor11Validatable", "tested"]
+- ["P5Vapor11Validatable", "tested"]
+- ["Sq", "tested"]
+- ["Sq", "tested"]
+- ["P5Vapor11Validatable", "passes"]
+- ["P5Vapor11Validatable", "passes"]
+- ["P5Vapor11Validatable", "passes"]
+- ["Sq", "passes"]
+- ["Sq", "passes"]
+- ["Sq", "passes"]
+- ["P5Vapor11Validatable", "validated"]
+- ["P5Vapor11Validatable", "validated"]
+- ["Sq", "validated"]
+- ["Sq", "validated"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Int32"
+- "Double"
+- "Valid"
+- "Set"
+- "Void"
+- "UInt32"
+- "Int64"
+- "UInt64"
+- !private "ValidationError"
+- "Optional"
+- "Int"
+- !private "BooleanLiteralType"
+- "Int8"
+- "String"
+- "Bool"
+- "Validatable"
+- "UInt8"
+- "Array"
+- "UInt"
+- "Dictionary"
+- "ValidationSuite"
+- "Int16"
+- "Float"
+- "UInt16"
+- "Validator"
+depends-member:
+- !private ["Ps9AnyObject", "init"]
+- ["Sa", "deinit"]
+- ["Sb", "deinit"]
+- !private ["Ps28CustomDebugStringConvertible", "Valid"]
+- ["Ps28CustomDebugStringConvertible", "Validatable"]
+- !private ["Ps28CustomDebugStringConvertible", "ValidationError"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "passes"]
+- ["Ps28CustomDebugStringConvertible", "some"]
+- !private ["Ps17CustomReflectable", "Valid"]
+- ["Ps17CustomReflectable", "Validatable"]
+- !private ["Ps17CustomReflectable", "ValidationError"]
+- !private ["Ps17CustomReflectable", "passes"]
+- ["Ps17CustomReflectable", "some"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Vs10Dictionary", "deinit"]
+- ["Sd", "deinit"]
+- !private ["Ps5Error", "init"]
+- !private ["Ps23ExpressibleByNilLiteral", "Valid"]
+- ["Ps23ExpressibleByNilLiteral", "Validatable"]
+- !private ["Ps23ExpressibleByNilLiteral", "ValidationError"]
+- !private ["Ps23ExpressibleByNilLiteral", "passes"]
+- ["Ps23ExpressibleByNilLiteral", "some"]
+- !private ["P4Core11Extractable", "Valid"]
+- ["P4Core11Extractable", "Validatable"]
+- !private ["P4Core11Extractable", "ValidationError"]
+- !private ["P4Core11Extractable", "passes"]
+- ["P4Core11Extractable", "some"]
+- ["Sf", "deinit"]
+- ["Si", "deinit"]
+- ["Vs5Int16", "deinit"]
+- ["Vs5Int32", "deinit"]
+- ["Vs5Int64", "deinit"]
+- ["Vs4Int8", "deinit"]
+- ["Sq", "Bool"]
+- ["Sq", "Valid"]
+- ["Sq", "Validatable"]
+- !private ["Sq", "ValidationError"]
+- ["Sq", "ValidationSuite"]
+- ["Sq", "Validator"]
+- ["Sq", "Void"]
+- ["Sq", "Wrapped"]
+- ["Sq", "deinit"]
+- ["Sq", "passes"]
+- ["Sq", "some"]
+- ["Sq", "tested"]
+- ["Sq", "validated"]
+- ["Vs3Set", "deinit"]
+- ["SS", "deinit"]
+- ["Su", "deinit"]
+- ["Vs6UInt16", "deinit"]
+- ["Vs6UInt32", "deinit"]
+- ["Vs6UInt64", "deinit"]
+- ["Vs5UInt8", "deinit"]
+- ["V5Vapor5Valid", "deinit"]
+- !private ["V5Vapor5Valid", "init"]
+- ["P5Vapor11Validatable", "Bool"]
+- ["P5Vapor11Validatable", "Self"]
+- ["P5Vapor11Validatable", "Valid"]
+- ["P5Vapor11Validatable", "ValidationSuite"]
+- ["P5Vapor11Validatable", "Validator"]
+- ["P5Vapor11Validatable", "Void"]
+- ["P5Vapor11Validatable", "passes"]
+- ["P5Vapor11Validatable", "tested"]
+- ["P5Vapor11Validatable", "validated"]
+- ["P5Vapor11Validatable", ""]
+- ["C5Vapor15ValidationError", "deinit"]
+- !private ["C5Vapor15ValidationError", "init"]
+- !private ["P5Vapor23ValidationErrorProtocol", "init"]
+- !private ["P5Vapor15ValidationSuite", "InputType"]
+- !private ["P5Vapor15ValidationSuite", "validate"]
+- !private ["P5Vapor9Validator", "InputType"]
+- !private ["P5Vapor9Validator", "validate"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- "Sa"
+- "Sb"
+- "Ps28CustomDebugStringConvertible"
+- "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- "Sd"
+- !private "Ps5Error"
+- "Ps23ExpressibleByNilLiteral"
+- "P4Core11Extractable"
+- "Sf"
+- "Si"
+- "Vs5Int16"
+- "Vs5Int32"
+- "Vs5Int64"
+- "Vs4Int8"
+- "Sq"
+- "Vs3Set"
+- "SS"
+- "Su"
+- "Vs6UInt16"
+- "Vs6UInt32"
+- "Vs6UInt64"
+- "Vs5UInt8"
+- "V5Vapor5Valid"
+- "P5Vapor11Validatable"
+- "C5Vapor15ValidationError"
+- !private "P5Vapor23ValidationErrorProtocol"
+- !private "P5Vapor15ValidationSuite"
+- !private "P5Vapor9Validator"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Console.framework/Modules/Console.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/libc.framework/Modules/libc.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Polymorphic.framework/Modules/Polymorphic.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Settings.framework/Modules/Settings.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/JSON.framework/Modules/JSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Jay.framework/Modules/Jay.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Node.framework/Modules/Node.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/PathIndexable.framework/Modules/PathIndexable.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/HTTP.framework/Modules/HTTP.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Transport.framework/Modules/Transport.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/SocksCore.framework/Modules/SocksCore.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/TLS.framework/Modules/TLS.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/whrlpool.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ui_compat.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/txt_db.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/x509v3.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/x509.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ts.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/tls.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ripemd.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/rc4.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/rc2.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/rand.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/poly1305.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/pkcs12.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/safestack.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/opensslfeatures.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/opensslconf.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ossl_typ.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ocsp.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/modes.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/md5.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/md4.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/krb5_asn.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/idea.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/gost.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/lhash.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/err.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ui.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/rsa.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/engine.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ssl3.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ssl.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/srtp.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ssl23.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/tls1.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/evp.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ssl2.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/pem2.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/pkcs7.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/x509_vfy.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/sha.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ec.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ecdh.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ecdsa.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/stack.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/pem.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/hmac.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/dtls1.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/dso.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/dsa.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/dh.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/des.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/conf_api.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/conf.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/crypto.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/comp.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/cms.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/obj_mac.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/objects.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/cmac.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/chacha.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/cast.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/camellia.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/buffer.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/blowfish.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/asn1t.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/asn1_mac.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/bio.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/bn.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/opensslv.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/asn1.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/aes.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/CLibreSSL.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/CLibreSSL.framework/Modules/module.modulemap"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/URI.framework/Modules/URI.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/HTTPRouting.framework/Modules/HTTPRouting.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Routing.framework/Modules/Routing.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Socks.framework/Modules/Socks.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Fluent.framework/Modules/Fluent.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Cache.framework/Modules/Cache.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/TypeSafeRouting.framework/Modules/TypeSafeRouting.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/WebSockets.framework/Modules/WebSockets.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/SHA1.framework/Modules/SHA1.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Essentials.framework/Modules/Essentials.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/HMAC.framework/Modules/HMAC.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/SHA2.framework/Modules/SHA2.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Cookies.framework/Modules/Cookies.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Leaf.framework/Modules/Leaf.swiftmodule/x86_64.swiftmodule"
+interface-hash: "3b3264ccddf89fe77f2f02dffd9a87a6"

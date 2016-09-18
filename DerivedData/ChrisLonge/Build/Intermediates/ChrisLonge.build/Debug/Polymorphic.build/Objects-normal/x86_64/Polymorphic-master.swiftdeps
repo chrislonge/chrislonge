@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "27cf464a5888c045c01b0b3ace3e0f1a"
+build_time: [527488211, 460511000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Polymorphic-0.4.0/Sources/Polymorphic.swift": [527487051, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Polymorphic-0.4.0/Sources/String+Polymorphic.swift": [527487051, 0]

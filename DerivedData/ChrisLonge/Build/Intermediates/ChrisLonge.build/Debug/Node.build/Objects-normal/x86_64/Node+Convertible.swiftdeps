@@ -1,0 +1,81 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "O4Node4Node"
+provides-member:
+- ["O4Node4Node", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Node"
+- "NodeConvertible"
+- "Context"
+- "AssignmentPrecedence"
+depends-member:
+- ["P4Node7Context", "init"]
+- ["P4Node7Context", "makeNode"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "makeNode"]
+- ["Ps25ExpressibleByArrayLiteral", "init"]
+- ["Ps25ExpressibleByArrayLiteral", "makeNode"]
+- ["Ps27ExpressibleByBooleanLiteral", "init"]
+- ["Ps27ExpressibleByBooleanLiteral", "makeNode"]
+- ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- ["Ps30ExpressibleByDictionaryLiteral", "makeNode"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "makeNode"]
+- ["Ps25ExpressibleByFloatLiteral", "init"]
+- ["Ps25ExpressibleByFloatLiteral", "makeNode"]
+- ["Ps27ExpressibleByIntegerLiteral", "init"]
+- ["Ps27ExpressibleByIntegerLiteral", "makeNode"]
+- ["Ps23ExpressibleByNilLiteral", "init"]
+- ["Ps23ExpressibleByNilLiteral", "makeNode"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps26ExpressibleByStringLiteral", "makeNode"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "makeNode"]
+- ["O4Node4Node", "Context"]
+- ["O4Node4Node", "Node"]
+- ["O4Node4Node", "deinit"]
+- ["O4Node4Node", "init"]
+- ["O4Node4Node", "makeNode"]
+- ["P4Node10NodeBacked", "init"]
+- ["P4Node10NodeBacked", "makeNode"]
+- ["P4Node15NodeConvertible", "init"]
+- ["P4Node15NodeConvertible", "makeNode"]
+- ["P4Node15NodeConvertible", ""]
+- ["P4Node17NodeInitializable", "init"]
+- ["P4Node17NodeInitializable", "makeNode"]
+- ["P4Node17NodeInitializable", ""]
+- ["P4Node17NodeRepresentable", "init"]
+- ["P4Node17NodeRepresentable", "makeNode"]
+- ["P4Node17NodeRepresentable", ""]
+- ["P13PathIndexable13PathIndexable", "init"]
+- ["P13PathIndexable13PathIndexable", "makeNode"]
+- ["P11Polymorphic11Polymorphic", "init"]
+- ["P11Polymorphic11Polymorphic", "makeNode"]
+depends-nominal:
+- "P4Node7Context"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- "Ps27ExpressibleByBooleanLiteral"
+- "Ps30ExpressibleByDictionaryLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps25ExpressibleByFloatLiteral"
+- "Ps27ExpressibleByIntegerLiteral"
+- "Ps23ExpressibleByNilLiteral"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "O4Node4Node"
+- "P4Node10NodeBacked"
+- "P4Node15NodeConvertible"
+- "P4Node17NodeInitializable"
+- "P4Node17NodeRepresentable"
+- "P13PathIndexable13PathIndexable"
+- "P11Polymorphic11Polymorphic"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Polymorphic.framework/Modules/Polymorphic.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/PathIndexable.framework/Modules/PathIndexable.swiftmodule/x86_64.swiftmodule"
+interface-hash: "d07ff33802c778e0ec7de0ccf26b9959"

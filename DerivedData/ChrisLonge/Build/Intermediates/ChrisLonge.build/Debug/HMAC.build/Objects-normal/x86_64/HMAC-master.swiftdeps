@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "8d77fe7204007408971dddc3e66711cc"
+build_time: [527488239, 432044000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/HMAC/Authenticatable.swift": [527486787, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/HMAC/HMAC.swift": [527486787, 0]

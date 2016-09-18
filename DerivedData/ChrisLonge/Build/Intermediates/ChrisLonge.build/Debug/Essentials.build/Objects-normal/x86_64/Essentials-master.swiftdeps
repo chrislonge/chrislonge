@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "4a4bb76139932d48db9b11d9182e2c76"
+build_time: [527488238, 294511000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/Essentials/ByteStream.swift": [527486785, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/Essentials/Hash.swift": [527486787, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/Essentials/Helpers.swift": [527486785, 0]

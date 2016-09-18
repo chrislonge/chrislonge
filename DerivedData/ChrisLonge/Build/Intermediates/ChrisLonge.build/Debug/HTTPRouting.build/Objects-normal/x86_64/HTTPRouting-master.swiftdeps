@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "c3659afd4af33e9cf64ee4833cf402dd"
+build_time: [527488256, 418926000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/HTTPRouting/Request+Routing.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/HTTPRouting/RouteBuilder+HTTP.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/HTTPRouting/Router+HTTP.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/HTTPRouting/Routing+HTTP.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/HTTPRouting/Utilities.swift": [527486761, 0]

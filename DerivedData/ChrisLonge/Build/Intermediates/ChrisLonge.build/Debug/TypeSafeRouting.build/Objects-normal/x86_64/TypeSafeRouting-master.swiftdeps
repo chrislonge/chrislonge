@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "97caf737fe4c848b5159f9fe8e712a4c"
+build_time: [527488258, 32135000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/TypeSafeRouting/Generated.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/TypeSafeRouting/StringInitializable.swift": [527486761, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Vapor-0.18.0/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [527486761, 0]

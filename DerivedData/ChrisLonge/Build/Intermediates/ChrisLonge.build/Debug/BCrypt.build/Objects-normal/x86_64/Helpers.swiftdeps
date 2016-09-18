@@ -1,0 +1,464 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["SS", ""]
+- ["Vs9Character", ""]
+- ["SS", "subscript"]
+- ["SS", "subscript"]
+- ["SS", "subscript"]
+- ["Vs9Character", "utf16Value"]
+provides-dynamic-lookup:
+depends-top-level:
+- "CastingPrecedence"
+- "Character"
+- "Int"
+- "UInt16"
+- "Range"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "index"]
+- !private ["Ps9AnyObject", "startIndex"]
+- !private ["Ps9AnyObject", "subscript"]
+- !private ["Ps9AnyObject", "substring"]
+- !private ["Ps9AnyObject", "utf16"]
+- !private ["Ps23BidirectionalCollection", "Iterator"]
+- !private ["Ps23BidirectionalCollection", "_Element"]
+- !private ["Ps22BidirectionalIndexable", "Iterator"]
+- !private ["Ps22BidirectionalIndexable", "_Element"]
+- !private ["P4Core16BytesConvertible", "Range"]
+- !private ["P4Core16BytesConvertible", "String"]
+- !private ["P4Core16BytesConvertible", "index"]
+- !private ["P4Core16BytesConvertible", "init"]
+- !private ["P4Core16BytesConvertible", "startIndex"]
+- !private ["P4Core16BytesConvertible", "subscript"]
+- !private ["P4Core16BytesConvertible", "substring"]
+- !private ["P4Core16BytesConvertible", "utf16"]
+- !private ["P4Core18BytesInitializable", "Range"]
+- !private ["P4Core18BytesInitializable", "String"]
+- !private ["P4Core18BytesInitializable", "index"]
+- !private ["P4Core18BytesInitializable", "init"]
+- !private ["P4Core18BytesInitializable", "startIndex"]
+- !private ["P4Core18BytesInitializable", "subscript"]
+- !private ["P4Core18BytesInitializable", "substring"]
+- !private ["P4Core18BytesInitializable", "utf16"]
+- !private ["P4Core18BytesRepresentable", "Range"]
+- !private ["P4Core18BytesRepresentable", "String"]
+- !private ["P4Core18BytesRepresentable", "index"]
+- !private ["P4Core18BytesRepresentable", "init"]
+- !private ["P4Core18BytesRepresentable", "startIndex"]
+- !private ["P4Core18BytesRepresentable", "subscript"]
+- !private ["P4Core18BytesRepresentable", "substring"]
+- !private ["P4Core18BytesRepresentable", "utf16"]
+- !private ["Ps7CVarArg", "Range"]
+- !private ["Ps7CVarArg", "String"]
+- !private ["Ps7CVarArg", "index"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "startIndex"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps7CVarArg", "substring"]
+- !private ["Ps7CVarArg", "utf16"]
+- !private ["Vs9Character", "String"]
+- ["Vs9Character", "UInt16"]
+- ["Vs9Character", "deinit"]
+- ["Vs9Character", "utf16Value"]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps10Comparable", "Range"]
+- !private ["Ps10Comparable", "String"]
+- !private ["Ps10Comparable", "index"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps10Comparable", "startIndex"]
+- !private ["Ps10Comparable", "subscript"]
+- !private ["Ps10Comparable", "substring"]
+- !private ["Ps10Comparable", "utf16"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "Range"]
+- !private ["Ps28CustomDebugStringConvertible", "String"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "index"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "lowerBound"]
+- !private ["Ps28CustomDebugStringConvertible", "startIndex"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps28CustomDebugStringConvertible", "substring"]
+- !private ["Ps28CustomDebugStringConvertible", "upperBound"]
+- !private ["Ps28CustomDebugStringConvertible", "utf16"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "Iterator"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "Range"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "String"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_Element"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "index"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "startIndex"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "subscript"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "substring"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "utf16"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "Range"]
+- !private ["Ps17CustomReflectable", "String"]
+- !private ["Ps17CustomReflectable", "_Element"]
+- !private ["Ps17CustomReflectable", "index"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "lowerBound"]
+- !private ["Ps17CustomReflectable", "startIndex"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps17CustomReflectable", "substring"]
+- !private ["Ps17CustomReflectable", "upperBound"]
+- !private ["Ps17CustomReflectable", "utf16"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "Range"]
+- !private ["Ps23CustomStringConvertible", "String"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "index"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "lowerBound"]
+- !private ["Ps23CustomStringConvertible", "startIndex"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Ps23CustomStringConvertible", "substring"]
+- !private ["Ps23CustomStringConvertible", "upperBound"]
+- !private ["Ps23CustomStringConvertible", "utf16"]
+- !private ["Ps9Equatable", "Range"]
+- !private ["Ps9Equatable", "String"]
+- !private ["Ps9Equatable", "index"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "lowerBound"]
+- !private ["Ps9Equatable", "startIndex"]
+- !private ["Ps9Equatable", "subscript"]
+- !private ["Ps9Equatable", "substring"]
+- !private ["Ps9Equatable", "upperBound"]
+- !private ["Ps9Equatable", "utf16"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "Range"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "String"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "index"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "startIndex"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "subscript"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "substring"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "utf16"]
+- !private ["Ps32ExpressibleByStringInterpolation", "Range"]
+- !private ["Ps32ExpressibleByStringInterpolation", "String"]
+- !private ["Ps32ExpressibleByStringInterpolation", "index"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "startIndex"]
+- !private ["Ps32ExpressibleByStringInterpolation", "subscript"]
+- !private ["Ps32ExpressibleByStringInterpolation", "substring"]
+- !private ["Ps32ExpressibleByStringInterpolation", "utf16"]
+- !private ["Ps26ExpressibleByStringLiteral", "Range"]
+- !private ["Ps26ExpressibleByStringLiteral", "String"]
+- !private ["Ps26ExpressibleByStringLiteral", "index"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "startIndex"]
+- !private ["Ps26ExpressibleByStringLiteral", "subscript"]
+- !private ["Ps26ExpressibleByStringLiteral", "substring"]
+- !private ["Ps26ExpressibleByStringLiteral", "utf16"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "Range"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "String"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "index"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "startIndex"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "subscript"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "substring"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "utf16"]
+- !private ["Ps8Hashable", "Range"]
+- !private ["Ps8Hashable", "String"]
+- !private ["Ps8Hashable", "index"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "startIndex"]
+- !private ["Ps8Hashable", "subscript"]
+- !private ["Ps8Hashable", "substring"]
+- !private ["Ps8Hashable", "utf16"]
+- ["VVSS13CharacterView5Index", "deinit"]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Vs16IndexingIterator", "Element"]
+- ["Si", "deinit"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- !private ["Ps25LosslessStringConvertible", "Range"]
+- !private ["Ps25LosslessStringConvertible", "String"]
+- !private ["Ps25LosslessStringConvertible", "index"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps25LosslessStringConvertible", "startIndex"]
+- !private ["Ps25LosslessStringConvertible", "subscript"]
+- !private ["Ps25LosslessStringConvertible", "substring"]
+- !private ["Ps25LosslessStringConvertible", "utf16"]
+- !private ["Ps10MirrorPath", "Range"]
+- !private ["Ps10MirrorPath", "String"]
+- !private ["Ps10MirrorPath", "index"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps10MirrorPath", "startIndex"]
+- !private ["Ps10MirrorPath", "subscript"]
+- !private ["Ps10MirrorPath", "substring"]
+- !private ["Ps10MirrorPath", "utf16"]
+- !private ["PSo8NSCoding", "index"]
+- !private ["PSo8NSCoding", "startIndex"]
+- !private ["PSo8NSCoding", "subscript"]
+- !private ["PSo8NSCoding", "substring"]
+- !private ["PSo8NSCoding", "utf16"]
+- !private ["PSo9NSCopying", "index"]
+- !private ["PSo9NSCopying", "startIndex"]
+- !private ["PSo9NSCopying", "subscript"]
+- !private ["PSo9NSCopying", "substring"]
+- !private ["PSo9NSCopying", "utf16"]
+- !private ["PSo16NSMutableCopying", "index"]
+- !private ["PSo16NSMutableCopying", "startIndex"]
+- !private ["PSo16NSMutableCopying", "subscript"]
+- !private ["PSo16NSMutableCopying", "substring"]
+- !private ["PSo16NSMutableCopying", "utf16"]
+- !private ["CSo8NSObject", "index"]
+- !private ["CSo8NSObject", "startIndex"]
+- !private ["CSo8NSObject", "subscript"]
+- !private ["CSo8NSObject", "substring"]
+- !private ["CSo8NSObject", "utf16"]
+- !private ["PSo16NSObjectProtocol", "index"]
+- !private ["PSo16NSObjectProtocol", "startIndex"]
+- !private ["PSo16NSObjectProtocol", "subscript"]
+- !private ["PSo16NSObjectProtocol", "substring"]
+- !private ["PSo16NSObjectProtocol", "utf16"]
+- !private ["PSo14NSSecureCoding", "index"]
+- !private ["PSo14NSSecureCoding", "startIndex"]
+- !private ["PSo14NSSecureCoding", "subscript"]
+- !private ["PSo14NSSecureCoding", "substring"]
+- !private ["PSo14NSSecureCoding", "utf16"]
+- !private ["CSo8NSString", "index"]
+- !private ["CSo8NSString", "startIndex"]
+- !private ["CSo8NSString", "subscript"]
+- !private ["CSo8NSString", "substring"]
+- !private ["CSo8NSString", "utf16"]
+- !private ["Ps22RandomAccessCollection", "Iterator"]
+- !private ["Ps22RandomAccessCollection", "_Element"]
+- !private ["Ps21RandomAccessIndexable", "Iterator"]
+- !private ["Ps21RandomAccessIndexable", "_Element"]
+- ["Vs5Range", "deinit"]
+- !private ["Vs5Range", "init"]
+- !private ["Vs5Range", "lowerBound"]
+- !private ["Vs5Range", "upperBound"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "_Element"]
+- ["SS", "Character"]
+- ["SS", "Int"]
+- ["SS", "Range"]
+- ["SS", "String"]
+- ["SS", "deinit"]
+- !private ["SS", "index"]
+- !private ["SS", "init"]
+- !private ["SS", "startIndex"]
+- ["SS", "subscript"]
+- !private ["SS", "substring"]
+- !private ["SS", "utf16"]
+- !private ["Ps16TextOutputStream", "Range"]
+- !private ["Ps16TextOutputStream", "String"]
+- !private ["Ps16TextOutputStream", "index"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps16TextOutputStream", "startIndex"]
+- !private ["Ps16TextOutputStream", "subscript"]
+- !private ["Ps16TextOutputStream", "substring"]
+- !private ["Ps16TextOutputStream", "utf16"]
+- !private ["Ps20TextOutputStreamable", "Range"]
+- !private ["Ps20TextOutputStreamable", "String"]
+- !private ["Ps20TextOutputStreamable", "index"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["Ps20TextOutputStreamable", "startIndex"]
+- !private ["Ps20TextOutputStreamable", "subscript"]
+- !private ["Ps20TextOutputStreamable", "substring"]
+- !private ["Ps20TextOutputStreamable", "utf16"]
+- ["Vs6UInt16", "deinit"]
+- !private ["VSS9UTF16View", "Iterator"]
+- !private ["VSS9UTF16View", "_Element"]
+- ["VSS9UTF16View", "deinit"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "Range"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "String"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "index"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "startIndex"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "subscript"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "substring"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "utf16"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "Range"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "String"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "index"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "startIndex"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "subscript"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "substring"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "utf16"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "Range"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "String"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "index"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "startIndex"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "subscript"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "substring"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "utf16"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "Range"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "String"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "index"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "startIndex"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "subscript"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "substring"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "utf16"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "index"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "startIndex"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "subscript"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "substring"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "utf16"]
+- !private ["Ps9_Hashable", "Range"]
+- !private ["Ps9_Hashable", "String"]
+- !private ["Ps9_Hashable", "index"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "startIndex"]
+- !private ["Ps9_Hashable", "subscript"]
+- !private ["Ps9_Hashable", "substring"]
+- !private ["Ps9_Hashable", "utf16"]
+- !private ["Ps21_ObjectiveCBridgeable", "Range"]
+- !private ["Ps21_ObjectiveCBridgeable", "String"]
+- !private ["Ps21_ObjectiveCBridgeable", "index"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "startIndex"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+- !private ["Ps21_ObjectiveCBridgeable", "substring"]
+- !private ["Ps21_ObjectiveCBridgeable", "utf16"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- !private "P4Core16BytesConvertible"
+- !private "P4Core18BytesInitializable"
+- !private "P4Core18BytesRepresentable"
+- !private "Ps7CVarArg"
+- "Vs9Character"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps8Hashable"
+- "VVSS13CharacterView5Index"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- "Si"
+- !private "Ps16IteratorProtocol"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- "Vs5Range"
+- !private "Ps8Sequence"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "Vs6UInt16"
+- "VSS9UTF16View"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/libc.framework/Modules/libc.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Random.framework/Modules/Random.swiftmodule/x86_64.swiftmodule"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/whrlpool.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ui_compat.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/txt_db.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/x509v3.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/x509.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ts.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/tls.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ripemd.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/rc4.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/rc2.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/rand.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/poly1305.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/pkcs12.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/safestack.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/opensslfeatures.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/opensslconf.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ossl_typ.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ocsp.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/modes.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/md5.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/md4.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/krb5_asn.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/idea.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/gost.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/lhash.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/err.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ui.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/rsa.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/engine.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ssl3.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ssl.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/srtp.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ssl23.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/tls1.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/evp.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ssl2.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/pem2.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/pkcs7.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/x509_vfy.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/sha.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ec.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ecdh.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/ecdsa.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/stack.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/pem.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/hmac.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/dtls1.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/dso.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/dsa.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/dh.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/des.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/conf_api.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/conf.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/crypto.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/comp.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/cms.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/obj_mac.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/objects.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/cmac.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/chacha.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/cast.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/camellia.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/buffer.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/blowfish.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/asn1t.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/asn1_mac.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/bio.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/bn.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/opensslv.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/asn1.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/aes.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/Packages/CLibreSSL-0.1.17/Sources/CLibreSSL/include/CLibreSSL.h"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/CLibreSSL.framework/Modules/module.modulemap"
+- "/Users/fls281/Development/Vapor/ChrisLonge/DerivedData/ChrisLonge/Build/Products/Debug/Essentials.framework/Modules/Essentials.swiftmodule/x86_64.swiftmodule"
+interface-hash: "fc7381c0586cd630fff171adaaa2373f"

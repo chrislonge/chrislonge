@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "f67eb29df7a4701689aad9dea538cfef"
+build_time: [527488240, 298043000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/SHA2/SHA224.swift": [527486787, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/SHA2/SHA256.swift": [527486787, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/SHA2/SHA384.swift": [527486787, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/SHA2/SHA512.swift": [527486787, 0]

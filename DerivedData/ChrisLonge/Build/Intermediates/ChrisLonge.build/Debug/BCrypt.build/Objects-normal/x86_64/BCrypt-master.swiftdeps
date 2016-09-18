@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "1d11a7a6549479ba4526e87bbc53f4b7"
+build_time: [527488240, 931440000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/BCrypt/BCrypt.swift": [527486787, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/BCrypt/BCryptBase64.swift": [527486787, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Crypto-0.3.0/Sources/BCrypt/Helpers.swift": [527486787, 0]

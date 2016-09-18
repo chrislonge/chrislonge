@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "49c4ac23469565dd8bb20f0251d99be8"
+build_time: [527488222, 190754000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/JSON-0.7.2/Sources/JSON/JSON+Bytes.swift": [527487089, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/JSON-0.7.2/Sources/JSON/JSON+Equatable.swift": [527487089, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/JSON-0.7.2/Sources/JSON/JSON+Node.swift": [527487089, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/JSON-0.7.2/Sources/JSON/JSON+Parse.swift": [527487089, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/JSON-0.7.2/Sources/JSON/JSON+Serialize.swift": [527487089, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/JSON-0.7.2/Sources/JSON/JSON.swift": [527487089, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/JSON-0.7.2/Sources/JSON/JSONRepresentable.swift": [527487089, 0]

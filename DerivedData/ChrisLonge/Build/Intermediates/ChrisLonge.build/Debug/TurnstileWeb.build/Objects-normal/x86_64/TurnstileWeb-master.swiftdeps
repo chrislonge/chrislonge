@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "1534efc06caa0768b308fbcc8ef720e2"
+build_time: [527488250, 959617000]
+inputs:
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileWeb/AuthorizationCode.swift": [527487097, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileWeb/Facebook.swift": [527487098, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileWeb/Google.swift": [527487098, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileWeb/Message+Turnstile.swift": [527487098, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileWeb/OAuth2.swift": [527487099, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileWeb/OAuth2Error.swift": [527487099, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileWeb/OAuth2Token.swift": [527487099, 0]
+  "/Users/fls281/Development/Vapor/ChrisLonge/Packages/Turnstile-0.4.0/Sources/TurnstileWeb/TempHTTPClient.swift": [527487099, 0]
