@@ -1,6 +1,6 @@
 # Chris Longe
 
-This is my personal website build using as much Swift as possible. Uses Swift Vapor!
+This is my personal website built using as much Swift as possible. Uses Swift Vapor!
 
 ## Documentation
 
